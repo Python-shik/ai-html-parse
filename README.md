@@ -32,7 +32,7 @@ Install with pip:
 
 1. Import the `AIparser` class:
    ```python
-   import AIparser
+   from AIparser import AIparser
    ```
 2. Initialize the parser with a URL:
    ```python
