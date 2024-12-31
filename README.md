@@ -11,18 +11,18 @@
 
 ### Steps
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/pythonshik/ai-html-parser.git
-   cd ai-html-parser
    ```
-2. Install dependencies:
+
+OR
+
+
+Install with pip:
    ```bash
-   pip install -r requirements.txt
+   pip install ai-html-parse
    ```
-3. Set up your API key for Google Gemini:
-   - Create a folder named `AI` in the root directory.
-   - Add your API key to a file named `gemini_api_key` inside the `AI` folder.
 
 ---
 
